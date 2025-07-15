@@ -4,7 +4,7 @@ A fully functional, responsive, and visually appealing frontend for a Gemini-sty
 
 ## 🚀 Live Demo
 
-[Deploy your own version on Vercel](https://vercel.com) or [Netlify](https://netlify.com)
+[Netlify](https://singular-lebkuchen-b56d6a.netlify.app/)
 
 ## ✨ Features
 
